@@ -1,0 +1,154 @@
+.nese .nese2{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.nese .nese3{
+    padding-left: 151px;
+}
+.nese .nese4{
+    padding-left: 500px;
+}
+h1{
+    padding-left: 450px;
+}
+.text p{
+    padding-left: 350px;
+}
+.text h2{
+    padding-left: 375px;
+}
+.nese5 {
+    display: flex;
+}
+
+.nese5 {
+    display: flex;
+    padding-left: 130px;
+    width: 80%;
+}
+
+.nese8 {
+    padding-left: 130px;
+}
+
+.nese5 .nese6, .nese5 .nese8 {
+    flex-basis: 50%;
+}
+
+.nese7 h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.nese7 p {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+
+.nese8 h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.nese8 p {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+.nese9 {
+    display: flex;
+    padding-left: 130px;
+    width: 80%;
+}
+
+.nese12 {
+    padding-left: 130px;
+}
+
+.nese9 .nese10, .nese9 .nese12 {
+    flex-basis: 50%;
+}
+
+.nese11 h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.nese11 p {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+
+.nese12 h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.nese12 p {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+
+.nese13 {
+    display: flex;
+}
+
+.nese13 {
+    display: flex;
+    padding-left: 130px;
+    width: 80%;
+}
+
+.nese16 {
+    padding-left: 130px;
+}
+
+.nese13 .nese14, .nese13 .nese16 {
+    flex-basis: 44%;
+}
+
+.nese15 h2 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.nese15 p {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+
+.nese16{
+    padding-left: 130px;
+}
+
+
+
+.text1{
+    padding-left: 300px;
+}
+
+.nese17{
+    padding-left: 10px;
+}
+.nese18{
+    margin-top: 15px;
+}
+.nese19{
+    padding-left: 20px;
+}
+.nese20{
+    padding-left: 10px;
+}
+.nese21{
+    padding: 20px;
+    
+}
